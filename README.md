@@ -1,6 +1,6 @@
 # MetaCoin
 
-This project is based on [Truffle Quickstart Guideline][truffle_getting_started].
+This project is based on [Truffle Quickstart Tutorial][truffle_getting_started].
 
 ## Interacting with the contract
 
@@ -97,6 +97,6 @@ Mnemonic: candy maple cake sugar pudding cream honey rich smooth crumble sweet t
 [Ganache][ganache] is a desktop application to launch your personal blockchain. Ganache can be a more easy-to-understand tool for those new to Ethereum and the blockchain, as it displays much more information up-front.
 
 
-[truffle_getting_started]: http://truffleframework.com/docs/getting_started/project "Truffle Getting Started Guideline"
+[truffle_getting_started]: http://truffleframework.com/docs/getting_started/project "Truffle Getting Started Tutorial"
 [interacting_with_the_contract]: http://localhost:9000/docs/getting_started/project#interacting-with-the-contract "Interacting with the contract"
 [ganache]: http://localhost:9000/ganache/ "Ganache"
